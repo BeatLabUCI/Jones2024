@@ -2,7 +2,7 @@
 #### Clara E. Jones and Pim J. A. Oomen
 
 This repo can be utilized to recreate the results from Jones and Oomen 2024. The preprint of this paper can be found here: https://www.biorxiv.org/content/10.1101/2024.07.17.603959v1 
-Before running these notebooks, please download and install MONARCH and CHAMELEON from the BEAT Lab GitHub page: https://github.com/BeatLabUCI/
+Before running these notebooks, please download and install MONARCH and CHAMELEON from the BEAT Lab GitHub page: https://github.com/BeatLabUCI/ You should use monarch as the environment for this repository. 
 
 MONARCH is an open-source Python package to rapidly model cardiac physiology and remodeling. It is developed by the BEAT Lab at UCI directed by Pim Oomen. MONARCH stands for Model for Open-source Numerical simulations of Arrhythmia, Remodeling, Cardiac mechanics, and Hypertrophy.
 CHAMELEON is an open-source Python package to accommodate model calibration and Gaussian process emulation (GPE).
